@@ -1,4 +1,9 @@
 #!/usr/bin/python
+#
+# Written by Paul Heinlein. Use, modify, or share this code as you
+# see fit. Attribution is nice but not necessary.
+#
+# ======================================================================
 
 import argparse
 from datetime import date

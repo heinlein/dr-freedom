@@ -64,11 +64,9 @@ Here are the default values built into the script:
 
 * Monthly after-tax income: $2500
 * Percent saved: 10.00%
-* Monthly expenses: $2250
-* Monthly savings: $250
-* Starting savings: $0
 * Additional dollars saved: $0
 * Rate of return: 5.00%
+* Starting savings: $0
 
 Each of those values can be tweaked to generate different scenarios.
 
@@ -98,12 +96,12 @@ Achieving Rob Berger's Levels of Financial Freedom
 
 Data used:
 * Monthly income:       2500
+* Percent saved:          10.00%
+* Dollars saved:           0.00
+* Rate of return:          5.00%
+* Starting savings:        0
 * Monthly expenses:     2250
 * Monthly savings:       250
-* Starting savings:        0
-* Percent saved:       10.00%
-* Dollars saved:        0.00
-* Rate of return:       5.00%
 
 Level 1:  1 month expenses ($    2250) estimated 2019-01-03
 Level 2: 3 months expenses ($    6750) estimated 2020-06-03
@@ -126,12 +124,12 @@ Achieving Rob Berger's Levels of Financial Freedom
 
 Data used:
 * Monthly income:       2500
+* Percent saved:          15.00%
+* Dollars saved:           0.00
+* Rate of return:          8.00%
+* Starting savings:        0
 * Monthly expenses:     2125
 * Monthly savings:       375
-* Starting savings:        0
-* Percent saved:       15.00%
-* Dollars saved:        0.00
-* Rate of return:       8.00%
 
 Level 1:  1 month expenses ($    2125) estimated 2018-10-03
 Level 2: 3 months expenses ($    6375) estimated 2019-09-03
@@ -156,12 +154,12 @@ Achieving Rob Berger's Levels of Financial Freedom
 
 Data used:
 * Monthly income:       4000
+* Percent saved:          15.00%
+* Dollars saved:         150.00
+* Rate of return:          7.50%
+* Starting savings:    87500
 * Monthly expenses:     3250
 * Monthly savings:       750
-* Starting savings:    87500
-* Percent saved:       15.00%
-* Dollars saved:      150.00
-* Rate of return:       7.50%
 
 Level 1:  1 month expenses ($    3250) ACHIEVED
 Level 2: 3 months expenses ($    9750) ACHIEVED
