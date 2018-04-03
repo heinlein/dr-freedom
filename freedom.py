@@ -83,13 +83,13 @@ print( "" )
 
 # header information
 print ("Data used:" )
-print ("* Monthly income:   %8d"     % args.income )
+print ("* Monthly income:   %8d"      % args.income )
 print ("* Percent saved:    %11.2f%%" % args.percent )
-print ("* Dollars saved:    %11.2f"  % args.dollar )
+print ("* Dollars saved:    %11.2f"   % args.dollar )
 print ("* Rate of return:   %11.2f%%" % args.rate )
-print ("* Starting savings: %8d"     % bank )
-print ("* Monthly expenses: %8d"     % myexpenses )
-print ("* Monthly savings:  %8d"     % mysavings )
+print ("* Starting savings: %8d"      % bank )
+print ("* Monthly expenses: %8d"      % myexpenses )
+print ("* Monthly savings:  %8d"      % mysavings )
 print ("")
 
 # report on any levels already achieved
